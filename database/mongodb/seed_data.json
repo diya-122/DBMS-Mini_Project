@@ -1,0 +1,447 @@
+{
+  "scholarship_extras": [
+    {
+      "scholarshipId": 1,
+      "tags": [
+        "government",
+        "sc-st",
+        "need-based"
+      ],
+      "howToApply": [
+        "Register on the National Scholarship Portal",
+        "Fill the application with income and caste details",
+        "Upload documents and submit to the institute for verification"
+      ],
+      "faqs": [
+        {
+          "q": "Is the scholarship renewable?",
+          "a": "Yes, every year subject to satisfactory academic progress."
+        },
+        {
+          "q": "Can I apply to two scholarships?",
+          "a": "Most central scholarships do not allow stacking; check provider rules."
+        }
+      ],
+      "links": [
+        {
+          "label": "NSP Portal",
+          "url": "https://scholarships.gov.in"
+        }
+      ],
+      "tips": [
+        "Keep your caste certificate in the state-approved format."
+      ],
+      "extra": {
+        "source": "seed"
+      }
+    },
+    {
+      "scholarshipId": 2,
+      "tags": [
+        "government",
+        "merit",
+        "undergraduate"
+      ],
+      "howToApply": [
+        "Create an NSP account",
+        "Enter marks and bank details",
+        "Submit for institute and state verification"
+      ],
+      "faqs": [
+        {
+          "q": "What counts as merit?",
+          "a": "Top percentile performance in the qualifying examination."
+        }
+      ],
+      "links": [
+        {
+          "label": "NSP Portal",
+          "url": "https://scholarships.gov.in"
+        }
+      ],
+      "tips": [
+        "Ensure your Aadhaar is linked with your bank account."
+      ],
+      "extra": {
+        "source": "seed"
+      }
+    },
+    {
+      "scholarshipId": 3,
+      "tags": [
+        "aicte",
+        "women",
+        "technical-education"
+      ],
+      "howToApply": [
+        "Register on NSP under AICTE schemes",
+        "Upload income certificate and bonafide",
+        "Wait for institute verification"
+      ],
+      "faqs": [
+        {
+          "q": "Is it only for first-year students?",
+          "a": "It supports girl students in AICTE-approved technical institutions across years."
+        }
+      ],
+      "links": [
+        {
+          "label": "AICTE",
+          "url": "https://www.aicte-india.org"
+        }
+      ],
+      "tips": [
+        "Apply early - verification takes weeks."
+      ],
+      "extra": {
+        "source": "seed"
+      }
+    },
+    {
+      "scholarshipId": 4,
+      "tags": [
+        "minority",
+        "government"
+      ],
+      "howToApply": [
+        "Obtain a community certificate",
+        "Apply on the portal",
+        "Submit hard copies if requested"
+      ],
+      "faqs": [
+        {
+          "q": "Which communities qualify?",
+          "a": "Notified minority communities such as Muslim, Christian, Sikh, Buddhist, Jain and Parsi."
+        }
+      ],
+      "links": [
+        {
+          "label": "Minority Affairs",
+          "url": "https://minorityaffairs.gov.in"
+        }
+      ],
+      "tips": [
+        "Income certificate must be from the current financial year."
+      ],
+      "extra": {
+        "source": "seed"
+      }
+    },
+    {
+      "scholarshipId": 5,
+      "tags": [
+        "private",
+        "medical",
+        "need-based"
+      ],
+      "howToApply": [
+        "Fill the online application",
+        "Provide fee structure from the college",
+        "Interview with the trust (if shortlisted)"
+      ],
+      "faqs": [
+        {
+          "q": "Is the grant paid to the student?",
+          "a": "Usually paid to the institution against fee receipts."
+        }
+      ],
+      "links": [
+        {
+          "label": "Tata Trusts",
+          "url": "https://www.tatatrusts.org"
+        }
+      ],
+      "tips": [
+        "Keep fee receipts ready."
+      ],
+      "extra": {
+        "source": "seed"
+      }
+    },
+    {
+      "scholarshipId": 6,
+      "tags": [
+        "private",
+        "merit",
+        "high-value"
+      ],
+      "howToApply": [
+        "Online aptitude test",
+        "Document verification",
+        "Final interview"
+      ],
+      "faqs": [
+        {
+          "q": "Is there an exam?",
+          "a": "Yes, an online aptitude test precedes shortlisting."
+        }
+      ],
+      "links": [
+        {
+          "label": "Reliance Foundation",
+          "url": "https://www.reliancefoundation.org"
+        }
+      ],
+      "tips": [
+        "Practise the aptitude test beforehand."
+      ],
+      "extra": {
+        "source": "seed"
+      }
+    },
+    {
+      "scholarshipId": 7,
+      "tags": [
+        "institution",
+        "merit"
+      ],
+      "howToApply": [
+        "Auto-listed for 9.0+ CGPA students",
+        "Submit bonafide and marksheet"
+      ],
+      "faqs": [
+        {
+          "q": "Is it renewable?",
+          "a": "Yes, if CGPA stays above 9.0."
+        }
+      ],
+      "links": [
+        {
+          "label": "PES University",
+          "url": "https://pes.edu"
+        }
+      ],
+      "tips": [
+        "Check with the department office for confirmation."
+      ],
+      "extra": {
+        "source": "seed"
+      }
+    },
+    {
+      "scholarshipId": 8,
+      "tags": [
+        "disability",
+        "government"
+      ],
+      "howToApply": [
+        "Apply on NSP",
+        "Upload disability certificate (40%+)",
+        "Medical board verification"
+      ],
+      "faqs": [
+        {
+          "q": "Which certificate is accepted?",
+          "a": "UDID or a certificate from a government medical board."
+        }
+      ],
+      "links": [
+        {
+          "label": "NSP Portal",
+          "url": "https://scholarships.gov.in"
+        }
+      ],
+      "tips": [
+        "Upload a clear scan of the certificate."
+      ],
+      "extra": {
+        "source": "seed"
+      }
+    },
+    {
+      "scholarshipId": 9,
+      "tags": [
+        "ngo",
+        "rural",
+        "need-based"
+      ],
+      "howToApply": [
+        "Apply with income proof",
+        "Local volunteer visit",
+        "Approval"
+      ],
+      "faqs": [
+        {
+          "q": "Who is considered rural?",
+          "a": "Residents of villages / non-municipal areas."
+        }
+      ],
+      "links": [
+        {
+          "label": "Katha",
+          "url": "https://example.org/katha"
+        }
+      ],
+      "tips": [
+        "Mention your village and district clearly."
+      ],
+      "extra": {
+        "source": "seed"
+      }
+    },
+    {
+      "scholarshipId": 10,
+      "tags": [
+        "state",
+        "obc"
+      ],
+      "howToApply": [
+        "Apply on the state portal",
+        "Attach OBC non-creamy-layer certificate"
+      ],
+      "faqs": [
+        {
+          "q": "Do I need a non-creamy-layer certificate?",
+          "a": "Yes, issued within the last year."
+        }
+      ],
+      "links": [
+        {
+          "label": "State Portal",
+          "url": "https://scholarships.gov.in"
+        }
+      ],
+      "tips": [
+        "Renew your certificate before applying."
+      ],
+      "extra": {
+        "source": "seed"
+      }
+    },
+    {
+      "scholarshipId": 11,
+      "tags": [
+        "private",
+        "women",
+        "fellowship"
+      ],
+      "howToApply": [
+        "Apply online",
+        "Technical assessment",
+        "Mentor matching"
+      ],
+      "faqs": [
+        {
+          "q": "Is mentoring included?",
+          "a": "Yes, fellows get an industry mentor."
+        }
+      ],
+      "links": [
+        {
+          "label": "Tata Trusts",
+          "url": "https://www.tatatrusts.org"
+        }
+      ],
+      "tips": [
+        "Deadline is very close - apply today!"
+      ],
+      "extra": {
+        "source": "seed"
+      }
+    },
+    {
+      "scholarshipId": 12,
+      "tags": [
+        "private",
+        "leadership"
+      ],
+      "howToApply": [
+        "Opens soon - keep documents ready"
+      ],
+      "faqs": [
+        {
+          "q": "When does it open?",
+          "a": "Applications open in a few days."
+        }
+      ],
+      "links": [
+        {
+          "label": "Reliance Foundation",
+          "url": "https://www.reliancefoundation.org"
+        }
+      ],
+      "tips": [
+        "Prepare a short statement of purpose."
+      ],
+      "extra": {
+        "source": "seed"
+      }
+    },
+    {
+      "scholarshipId": 13,
+      "tags": [
+        "closed",
+        "archive"
+      ],
+      "howToApply": [
+        "Closed"
+      ],
+      "faqs": [],
+      "links": [],
+      "tips": [],
+      "extra": {
+        "source": "seed"
+      }
+    }
+  ],
+  "reviews": [
+    {
+      "scholarshipId": 3,
+      "userId": 5,
+      "studentName": "G Ganikhasri",
+      "rating": 5,
+      "comment": "Smooth process and quick verification."
+    },
+    {
+      "scholarshipId": 2,
+      "userId": 5,
+      "studentName": "G Ganikhasri",
+      "rating": 4,
+      "comment": "Good amount, keep Aadhaar-bank link ready."
+    },
+    {
+      "scholarshipId": 1,
+      "userId": 6,
+      "studentName": "Rahul Verma",
+      "rating": 4,
+      "comment": "Helpful for tuition fees."
+    },
+    {
+      "scholarshipId": 4,
+      "userId": 7,
+      "studentName": "Ayesha Khan",
+      "rating": 5,
+      "comment": "Approved within a month."
+    },
+    {
+      "scholarshipId": 8,
+      "userId": 10,
+      "studentName": "Mohit Das",
+      "rating": 3,
+      "comment": "Medical verification takes time."
+    }
+  ],
+  "notifications": [
+    {
+      "userId": 5,
+      "title": "Welcome!",
+      "message": "Check the Eligibility page to see scholarships you qualify for.",
+      "type": "info",
+      "read": false
+    },
+    {
+      "userId": 4,
+      "title": "Deadline alert",
+      "message": "Tata Women in Tech Fellowship closes in 3 days.",
+      "type": "warning",
+      "read": false
+    },
+    {
+      "userId": 5,
+      "title": "Application Approved",
+      "message": "Your application for \"Pragati Scholarship for Girls\" is now: Approved.",
+      "type": "success",
+      "read": false
+    }
+  ]
+}
